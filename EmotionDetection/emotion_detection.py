@@ -48,4 +48,3 @@ def emotion_detector(text_to_analyse):
         # Handle error response
         return None
 
-
