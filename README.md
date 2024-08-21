@@ -9,3 +9,5 @@ Achieved the following milestones:
 5. **Incorporated Error Handling**: Enhanced the application by incorporating error handling mechanisms to account for invalid inputs, ensuring robust performance.
 6. **PEP8 Compliance**: Written clean and maintainable code that complies with PEP8 guidelines, achieving a perfect 10/10 score in static code analysis.
 
+*This image shows how the web interface looks like.*
+![Web Interface](6b_deployment_test.png)
